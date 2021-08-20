@@ -1,0 +1,28 @@
+table {
+	border: solid 1px black;
+	width: 766px;
+	height: 36px;
+	background-color: #000033;
+}
+
+.origem {
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 20px;
+	background-color: #FFF;
+	color: #280;
+}
+
+.titulo {
+	font-family: Arial;
+	font-weight: bold;
+	font-style: italic;
+	font-size: 15px;
+	background-color: #FFF;
+}
+
+.resumo {
+	font-family: Arial;
+	font-size: 12px;
+	background-color: #FFF;
+}
